@@ -1,16 +1,15 @@
-## Hi there 👋
+# ⚛️ ¡Hola! Soy Átomo (oliverprado551)
 
-<!--
-**oliverprado551-code/oliverprado551-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo de software en constante evolución y aprendizaje. Me encanta explorar nuevas tecnologías y construir soluciones eficientes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mis Objetivos
+- 🔭 Actualmente estoy trabajando en: Mis primeros proyectos web personales.
+- 🌱 Estoy aprendiendo: Fundamentos avanzados de programación y lógica de desarrollo.
+- 💬 Pregúntame sobre: Tecnología, aprendizaje continuo o cualquier cosa relacionada con el código.
+
+---
+
+### 📫 Cómo contactarme
+- 📧 Correo: oliverprado551@gmail.com
